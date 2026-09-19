@@ -1,42 +1,49 @@
 # 🌐 Network & Security Portfolio
 
-Welcome to my Network & Security Portfolio.
+## 👨‍💼 Professional Profile
 
-This repository documents my learning, labs, projects,
-and practical experience in networking and cybersecurity.
+Infrastructure and Security Manager with experience in network infrastructure, cybersecurity operations, firewall administration, incident management, and IT service operations.
 
-## 🧑‍💻 About Me
+This repository showcases network designs, security implementations, infrastructure projects, operational procedures, and hands-on laboratory environments.
 
-I am interested in:
+## 👨‍💼 About Me
 
-- Network Engineering
-- Network Security
-- Cybersecurity
-- Linux
-- Network Automation
-- Security Monitoring
+Name: Nuttavee Phungphia
 
-## 🛠️ Skills
+Infrastructure and Security Manager
 
-### Networking
+Experienced in managing enterprise infrastructure, network security, system operations, vendor coordination, incident response, and service continuity.
+
+Key Responsibilities:
+
+- Infrastructure Management
+- Cybersecurity Operations
+- Network Architecture
+- Firewall & VPN Administration
+- Incident Management
+- Project & Vendor Management
+
+### Technical Skills
+
+- Cisco Routing & Switching
+- FortiGate Firewall
 - TCP/IP
-- OSI Model
 - VLAN
-- DHCP
-- DNS
-- Routing
-- Switching
+- VPN
 - ACL
-- NAT
-- Firewall
+- Linux Administration
+- Wireshark
+- Nmap
 
-### Security
-- Network Security
-- Linux Security
-- Log Analysis
-- Security Monitoring
+### Management Skills
+
+- IT Service Management
+- Infrastructure Planning
+- Risk Management
+- Vendor Management
 - Incident Response
-- Vulnerability Assessment
+- Change Management
+- Team Leadership
 
 ### Tools
 - Wireshark
@@ -46,23 +53,24 @@ I am interested in:
 - Python
 - Git & GitHub
 
-## 📚 Projects
+## 📊 Key Projects
 
-| Project | Description | Status |
-|---|---|---|
-| Network Lab | VLAN, Routing, DHCP, ACL | 🚧 In Progress |
-| Network Security Lab | Firewall & Network Segmentation | 🚧 In Progress |
-| Security Monitoring Lab | Log Analysis & Monitoring | 📋 Planned |
-| Network Automation | Python Network Automation | 📋 Planned |
-| Linux Hardening | Linux Security Configuration | 📋 Planned |
+| Project | Description |
+|----------|------------|
+| Enterprise Network Segmentation | Designed VLAN segmentation, routing policies and access control for enterprise networks |
+| FortiGate VPN Implementation | Implemented secure Site-to-Site VPN connectivity between locations |
+| Infrastructure Migration Project | Planned and executed server, network and infrastructure migration activities |
+| Incident Response Case Study | Investigated security incidents and documented containment and recovery procedures |
+| Network Security Assessment | Conducted vulnerability assessments and security control reviews |
+| Security Monitoring Implementation | Developed monitoring and alerting processes for infrastructure and security events |
 
-## 🎯 Goals
+## 🎯 Objectives
 
-- Build practical networking skills
-- Develop cybersecurity skills
-- Learn network automation
-- Build hands-on security labs
-- Document my learning journey
+- Share infrastructure and security projects
+- Demonstrate practical network security implementations
+- Document operational best practices
+- Showcase incident response methodologies
+- Build a professional portfolio for infrastructure leadership roles
 
 ## 📫 Contact
 
