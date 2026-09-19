@@ -2,19 +2,21 @@
 
 ## 👨‍💼 Professional Profile
 
-Infrastructure and Security Manager with experience in network infrastructure, cybersecurity operations, firewall administration, incident management, and IT service operations.
+Infrastructure and Security Manager with experience in network infrastructure, cybersecurity operations, firewall administration, incident management, IT service management, and governance.
 
-This repository showcases IT service management, cybersecurity governance, compliance reviews, incident response case studies, security awareness programs, and infrastructure management practices.
+This repository showcases IT service management (ITSM), cybersecurity governance, compliance reviews, incident response methodologies, security awareness programs, infrastructure management practices, and low-latency networking concepts.
+
+---
 
 ## 👨‍💼 About Me
 
-Name: Nuttavee Phungphia
+**Name:** Nuttavee Phungphia
 
-Infrastructure and Security Manager
+**Position:** Infrastructure and Security Manager
 
-Experienced in managing enterprise infrastructure, network security, system operations, vendor coordination, incident response, and service continuity.
+Experienced in managing enterprise infrastructure, network security, IT operations, vendor coordination, incident response, service continuity, and regulatory compliance within business-critical environments.
 
-Key Responsibilities:
+### Key Responsibilities
 
 - Infrastructure Management
 - Cybersecurity Operations
