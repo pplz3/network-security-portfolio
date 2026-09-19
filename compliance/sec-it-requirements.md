@@ -4,7 +4,7 @@
 
 This document provides a high-level review of the information technology requirements defined in SEC Notification No. SorThor 38/2565.
 
-The regulation focuses on establishing effective IT Governance, Information Security, Risk Management, and IT Audit practices to support secure and resilient business operations. 【1-a3e03a】
+The regulation focuses on establishing effective IT Governance, Information Security, Risk Management, and IT Audit practices to support secure and resilient business operations. 
 
 ---
 
@@ -19,7 +19,7 @@ Key requirements include:
 - Technology Policies and Procedures
 - Management Oversight and Accountability
 
-Organizations should establish governance structures to ensure that information technology supports business objectives while maintaining appropriate risk controls. 【1-a3e03a】
+Organizations should establish governance structures to ensure that information technology supports business objectives while maintaining appropriate risk controls. 
 
 ---
 
@@ -32,7 +32,7 @@ Core security principles include:
 - Integrity
 - Availability
 
-Security measures should be implemented to protect information assets, systems, and services from unauthorized access, modification, disclosure, or disruption. 【1-a3e03a】
+Security measures should be implemented to protect information assets, systems, and services from unauthorized access, modification, disclosure, or disruption. 
 
 ---
 
@@ -45,7 +45,7 @@ Recommended control areas include:
 - Security Assessment
 - Control Effectiveness Review
 
-Regular assessments help ensure compliance with regulatory requirements and identify opportunities for continuous improvement. 【1-a3e03a】
+Regular assessments help ensure compliance with regulatory requirements and identify opportunities for continuous improvement. 
 
 ---
 
@@ -58,7 +58,7 @@ The notification emphasizes the importance of identifying, assessing, and managi
 - Data Protection
 - Market Confidence
 
-Organizations should maintain an appropriate risk assessment process and continuously monitor technology-related threats and vulnerabilities. 【1-a3e03a】
+Organizations should maintain an appropriate risk assessment process and continuously monitor technology-related threats and vulnerabilities. 
 
 ---
 
@@ -90,4 +90,4 @@ These requirements provide a framework for aligning technology operations with r
 
 ## Reference
 
-สธ. 382565 เรื่อง ข้อกำหนดในรายละเอียดเกี่ยวกับการจัดให้มีระบบเทคโนโลยีสารสนเทศ.pdf (SEC Notification No. SorThor 38/2565) 【1-a3e03a】
+สธ. 382565 เรื่อง ข้อกำหนดในรายละเอียดเกี่ยวกับการจัดให้มีระบบเทคโนโลยีสารสนเทศ.pdf (SEC Notification No. SorThor 38/2565) 
