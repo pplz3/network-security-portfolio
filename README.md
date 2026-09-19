@@ -4,7 +4,7 @@
 
 Infrastructure and Security Manager with experience in network infrastructure, cybersecurity operations, firewall administration, incident management, and IT service operations.
 
-This repository showcases network designs, security implementations, infrastructure projects, operational procedures, and hands-on laboratory environments.
+This repository showcases IT service management, cybersecurity governance, compliance reviews, incident response case studies, security awareness programs, and infrastructure management practices.
 
 ## 👨‍💼 About Me
 
@@ -80,6 +80,26 @@ Key Responsibilities:
 - Cyber Security Awareness Training
 - SEC IT Requirements Review
 - Incident Response Case Study
+
+## 📂 Repository Contents
+
+### Articles
+
+- IT Service Management (ITSM)
+- Cyber Security Awareness Training
+- SEC IT Requirements Review
+
+### Compliance
+
+- SEC IT Requirements
+- Information Security Governance
+- Regulatory References
+
+### Incident Response
+
+- Unauthorized VPN Access Attempt
+- Security Investigation Process
+- Lessons Learned
 
 ## 📫 Contact
 
