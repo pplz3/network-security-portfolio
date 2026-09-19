@@ -35,6 +35,41 @@ Key Responsibilities:
 - Low-Latency Networking
 - Precision Time Protocol (PTP)
 
+## 📜 Certifications
+
+### Security & Cybersecurity
+
+- CompTIA Security+ ce (Valid until Jan 2028)
+- Fortinet Certified Associate Cybersecurity (Valid until Apr 2027)
+- Fortinet NSE 3 Certified in Cybersecurity (Valid until Apr 2027)
+- Fortinet FortiGate 7.4 Operator
+- Check Point Certified Security Administrator (CCSA) R81.20
+- Security Analyst Level 1 (SAL1) - TryHackMe
+- Google Cybersecurity Professional Certificate
+- XM Cyber Exposure Management Expert
+
+### Infrastructure & Cloud
+
+- AWS Knowledge: Cloud Essentials
+- LFS101: Introduction to Linux
+- LFS158: Introduction to Kubernetes
+- Linux and Private Cloud Administration on IBM Power Systems
+
+### Cisco Networking & Security
+
+- Cybersecurity Essentials
+- Cyber Threat Management
+- Endpoint Security
+- Network Defense
+- Networking Basics
+- Networking Devices and Initial Configuration
+- Introduction to Cybersecurity
+
+### Programming & Data Analytics
+
+- Python Essentials 1
+- Python Essentials 2
+- Introduction to Data Science
 
 ### Technical Skills
 
