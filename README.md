@@ -75,6 +75,12 @@ Key Responsibilities:
 - Showcase incident response methodologies
 - Build a professional portfolio for infrastructure leadership roles
 
+## 📝 Articles
+
+- Cyber Security Awareness Training
+- SEC IT Requirements Review
+- Incident Response Case Study
+
 ## 📫 Contact
 
 GitHub: https://github.com/pplz3
