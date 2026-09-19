@@ -63,6 +63,7 @@ Key Responsibilities:
 | Incident Response Case Study | Investigated security incidents and documented containment and recovery procedures |
 | Network Security Assessment | Conducted vulnerability assessments and security control reviews |
 | Security Monitoring Implementation | Developed monitoring and alerting processes for infrastructure and security events |
+| SEC IT Requirements Review | Compliance review based on SEC Notification SorThor 38/2565 |
 
 ## 🎯 Objectives
 
