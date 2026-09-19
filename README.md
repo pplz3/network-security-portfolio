@@ -23,6 +23,19 @@ Key Responsibilities:
 - Incident Management
 - Project & Vendor Management
 
+## ⭐ Featured Expertise
+
+- Infrastructure & Security Management
+- IT Service Management (ITSM)
+- Cybersecurity Governance
+- Incident Response
+- Security Monitoring & SIEM
+- Regulatory Compliance
+- Financial Trading Infrastructure
+- Low-Latency Networking
+- Precision Time Protocol (PTP)
+
+
 ### Technical Skills
 
 - Cisco Routing & Switching
@@ -34,6 +47,10 @@ Key Responsibilities:
 - Linux Administration
 - Wireshark
 - Nmap
+- Solarflare NIC
+- Precision Time Protocol (PTP)
+- Low-Latency Networking
+- Network Monitoring
 
 ### Management Skills
 
@@ -52,8 +69,11 @@ Key Responsibilities:
 - Cisco Packet Tracer
 - Python
 - Git & GitHub
-- zabbix
-- wazuh
+- Zabbix
+- Wazuh
+- Solarflare Tools
+- Linux PTP (ptp4l, phc2sys)
+- Git & GitHub
 
 ## 📊 Key Projects
 
@@ -66,6 +86,7 @@ Key Responsibilities:
 | Network Security Assessment | Conducted vulnerability assessments and security control reviews |
 | Security Monitoring Implementation | Developed monitoring and alerting processes for infrastructure and security events |
 | SEC IT Requirements Review | Compliance review based on SEC Notification SorThor 38/2565 |
+| Low-Latency Trading Infrastructure | Implemented Solarflare NIC and PTP architecture for accurate timestamping and low-latency connectivity |
 
 ## 🎯 Objectives
 
@@ -75,19 +96,16 @@ Key Responsibilities:
 - Showcase incident response methodologies
 - Build a professional portfolio for infrastructure leadership roles
 
-## 📝 Articles
-
-- Cyber Security Awareness Training
-- SEC IT Requirements Review
-- Incident Response Case Study
 
 ## 📂 Repository Contents
 
-### Articles
+## 📝 Featured Articles
 
-- IT Service Management (ITSM)
+- IT Service Management (ITSM): From IT Operations to Business Value
 - Cyber Security Awareness Training
+- Incident Response Process: 7 Steps for Effective Cybersecurity Incident Handling
 - SEC IT Requirements Review
+- Solarflare and PTP: The Foundation of Ultra-Low Latency Networking
 
 ### Compliance
 
@@ -105,4 +123,4 @@ Key Responsibilities:
 
 GitHub: https://github.com/pplz3
 
-LinkedIn: https://www.linkedin.com/in/nuttavee-phungphia-9b535b207/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCtVS3%2FT5QIOw7ARsDQ5qhQ%3D%3D
+LinkedIn: https://www.linkedin.com/in/nuttavee-phungphia-9b535b207/
