@@ -26,15 +26,17 @@ Key Responsibilities:
 ## ⭐ Featured Expertise
 
 - Infrastructure & Security Management
+- Cybersecurity Operations
 - IT Service Management (ITSM)
-- Cybersecurity Governance
-- Incident Response
-- Security Monitoring & SIEM
-- Regulatory Compliance
+- Incident Response & Security Monitoring
+- Security Governance & Compliance
+- Firewall & VPN Administration
+- Vulnerability Management
+- Linux Administration
+- Cloud & Hybrid Infrastructure
 - Financial Trading Infrastructure
-- Low-Latency Networking
-- Precision Time Protocol (PTP)
-
+- Low-Latency Networking (Solarflare & PTP)
+  
 ## 📜 Certifications
 
 ### Security & Cybersecurity
