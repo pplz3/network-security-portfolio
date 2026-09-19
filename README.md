@@ -52,6 +52,8 @@ Key Responsibilities:
 - Cisco Packet Tracer
 - Python
 - Git & GitHub
+- zabbix
+- wazuh
 
 ## 📊 Key Projects
 
